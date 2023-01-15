@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '47.74.87.38',
     'jerysplayground.top',
+    'www.jerysplayground.top'
     'hai7u.xyz',
 ]
 
